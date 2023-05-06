@@ -1,4 +1,4 @@
-# Must_Go_Restaurants
+# Must Go Restaurants
 
 ![MyImage](https://github.com/Melon-Lo/restaurant_list/blob/main/homepage_screenshot.jpg?raw=true)
 
