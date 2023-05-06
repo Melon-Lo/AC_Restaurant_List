@@ -16,13 +16,13 @@ Here are some restaurants you won't want to miss! In this project, you can brows
 
 1. Install node.js and npm.
 2. Clone git https://github.com/Melon-Lo/restaurant_list.git .
-3. Open the directory through the terminal, and enter:
+3. Open the directory through the terminal, and enter: <br>
 ```npm install```
-4. After installing, enter:
+4. After installing, enter: <br>
 ```npm run start```
-5. If you see this messege, open the browser to go to the web address below.
+5. If you see this messege, open the browser to go to the web address below. <br>
 ```Listening on http://localhost:3000```
-6. If you want to quit, enter:
+6. If you want to quit, enter: <br>
 ```ctrl + c```
 
 ### Development Tools
